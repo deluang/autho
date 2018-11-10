@@ -8,6 +8,10 @@
     "start": "node server.js"
   },
   "author": "Mohammad Roseffendi <oii@roseffendi.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deluang/autho.git"
+  },
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
